@@ -15,6 +15,12 @@ def apply_negative(img):
     return cv2.bitwise_not(img)
 
 def apply_blur(img, ksize=15):
+    # Ensure ksize is an odd number and greater than 1
+    if ksize % 2 == 0:
+        ksize += 1  # Make it odd if it's even
+    if ksize < 1:
+        ksize = 3  # Default to 3 if it's less than 1
+    
     return cv2.GaussianBlur(img, (ksize, ksize), 0)
 
 def apply_edge_detection(img):
