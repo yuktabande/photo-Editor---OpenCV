@@ -1,5 +1,8 @@
 opencv-python==4.5.5
-opencv-contrib-python==4.5.5  # Only if you need contrib modules
 numpy==1.21.2
 streamlit==1.44.1
 Pillow==8.4.0
+rich==14.0.0
+markdown-it-py==3.0.0
+pygments==2.19.1
+mdurl==0.1.2
