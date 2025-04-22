@@ -2,4 +2,3 @@ opencv-python==4.5.5
 numpy==1.21.2
 streamlit==1.44.1
 Pillow==8.4.0
-mdurl==0.1.2
