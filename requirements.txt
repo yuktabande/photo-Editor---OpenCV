@@ -1,5 +1,4 @@
 opencv-python==4.11.0.86
-numpy==1.23.5
+numpy==1.23.5  # Compatible with Python 3.9
 streamlit==1.44.1
 Pillow==8.4.0
-distutils
