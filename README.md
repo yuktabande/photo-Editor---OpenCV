@@ -26,7 +26,7 @@ A lightweight, browser-based image editing app built using **OpenCV** for backen
 
 ## 📷 Demo
 
-
+![upload Image](assets/Screenshot 2025-04-23 at 7.26.35 AM.png)
 
 - Original upload vs edited preview
 - Demonstrating filters and sliders
