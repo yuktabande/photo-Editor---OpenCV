@@ -26,7 +26,11 @@ A lightweight, browser-based image editing app built using **OpenCV** for backen
 
 ## 📷 Demo
 
-![upload Image](assets/dash1)
+![upload Image](assets/dash1.png)
+
+![upload Image](assets/dash2.png)
+
+![upload Image](assets/dash3.png)
 
 - Original upload vs edited preview
 - Demonstrating filters and sliders
